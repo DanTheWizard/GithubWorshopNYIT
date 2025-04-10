@@ -5,6 +5,6 @@ document.addEventListener("DOMContentLoaded", () => {
     
     revealButton.addEventListener("click", () => {
         hiddenMessage.style.display = "block"; 
-        revealButton.style.display = "none"
+        revealButton.style.display = "none";
     });
 });
