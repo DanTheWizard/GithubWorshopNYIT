@@ -4,9 +4,9 @@ body {
     font-family: 'Courier New', monospace; 
     background-color: #1e1e1e; 
     display: flax; //FIX HERE
-    justify-content: center
+    justify-content: center;
     align-items: center;
-    height: 100v;
+    height: 100vh;
     color: #ffffff;
 }
 
